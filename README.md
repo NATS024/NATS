@@ -14,7 +14,7 @@ mwaa Ily!
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://nats024.github.io/NATS/
    cd your-repository
 
 ## Usage
